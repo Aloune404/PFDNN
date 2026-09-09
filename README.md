@@ -198,4 +198,4 @@ https://github.com/Aloune404/PFDNN
 
 ## Acknowledgements
 
-This work was supported by the National Natural Science Foundation of China (Grant No. 12361090), the Tianshan Talent Training Program (Grant No. 2023TSYCQNTJ0015), and the Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (Grant No. 23CGA21).
+ This work is supported by the National Natural Science Foundation of China (No. 12361090), and the Key Research and Development Program of Xinjiang, China (No. 2025B03027-2).
