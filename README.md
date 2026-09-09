@@ -180,10 +180,10 @@ A BibTeX entry will be added here after publication.
 ## Authors
 
 **Shaoqian Liao**  
-College of Mathematics and System Sciences, Xinjiang University
+College of Mathematics and Systems Science, Xinjiang University
 
 **Xufeng Xiao**  
-College of Mathematics and System Sciences, Xinjiang University  
+College of Mathematics and Systems Science, Xinjiang University 
 Corresponding author: xiaoxufeng111@sina.com
 
 ---
